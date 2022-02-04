@@ -1,4 +1,4 @@
-# Descrption
+# Description
 Script to install the official 7z from https://www.7-zip.org/
 Keep in mind that it might not take te newest since the version is currently hard-coded
 
