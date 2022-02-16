@@ -13,7 +13,7 @@ after this start the script as root:
 
 **Can't you do that for me?**   
 Well with this command it's basically copy and paste  
-`curl https://raw.githubusercontent.com/MrMinemeet/Install7zz/main/install.sh | sudo bash`
+`sudo curl https://raw.githubusercontent.com/MrMinemeet/Install7zz/main/install.sh | sudo bash`
 
 # Now how can I use it?
 It's pretty similar to `7z` from the p7zip package, but instead you have to use `7zz` for the official one that you just installed ;)
