@@ -2,7 +2,7 @@
 # Copyright (c) 2022 Alexander Voglsperger | MrMinemeet
 
 # File name for download and installation
-FILE="7z2107-linux-x64.tar.xz"
+FILE="7z2201-linux-x64.tar.xz"
 
 # Download file
 echo "Downloading $FILE"
