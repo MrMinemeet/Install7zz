@@ -1,5 +1,5 @@
 # Description
-Script to install the official 7z from https://www.7-zip.org/  
+Script to install the official 7-Zip (64-bit Linux x86-64) from https://www.7-zip.org/  
 Keep in mind that it might not take te newest since the version is currently hard-coded
 
 # How to install?
