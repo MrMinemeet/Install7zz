@@ -1,8 +1,9 @@
 #!/bin/bash
-# Copyright (c) 2022 Alexander Voglsperger | MrMinemeet
+# Copyright (c) 2022-2024 Alexander Voglsperger | MrMinemeet
+# This script is licensed under the MIT license. See LICENSE file for more information.
 
 # File name for download and installation
-FILE="7z2407-linux-x64.tar.xz"
+FILE="7z2408-linux-x64.tar.xz"
 
 # Download file
 echo "Downloading $FILE"

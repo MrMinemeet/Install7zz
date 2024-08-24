@@ -1,6 +1,5 @@
-
-**Important:**
-Some distributions already deliver the official 7-Zip package under names such as `7zip`. Please use the repository version if possible, to get updates automatically.
+> [!IMPORTANT]
+> Some distributions already deliver the official 7-Zip package under names such as `7zip`. Please use the repository version if possible, to get updates automatically.
 
 # Description
 Script to install the official 7-Zip (64-bit Linux x86-64) from https://www.7-zip.org/  
