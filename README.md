@@ -2,8 +2,8 @@
 > Some distributions already deliver the official 7-Zip package under names such as `7zip`. Please use such versions of your distribution if possible, to get updates automatically.
 
 # Description
-Script to install the official 7-Zip (64-bit Linux x86-64) from https://www.7-zip.org/  
-The latest version is automatically fetched from the official website and used for the installation.
+Script to install the official 7-Zip command line tool on Linux.
+The script is able to automatically download the latest version for the architecture of your system and install it.
 
 # How to install?
 Clone and then run the script as root, it should do the downloading, unpacking and installing for you
